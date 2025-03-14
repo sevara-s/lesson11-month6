@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;800;900&display=swap");
+@import "tailwindcss";
+* {
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+button {
+  cursor: pointer;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+@media (min-width: 1450px) {
+  .container {
+    width: 1250px;
+    margin: 0 auto;
+  }
+}
+
+.header {
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 20px 0 rgba(15, 15, 15, 0.2);
+  background: linear-gradient(
+    225deg,
+    rgba(37, 37, 37, 1) 0%,
+    rgba(51, 52, 58, 1) 56.25%,
+    rgba(26, 26, 26, 1) 100%
+  );
+}
+
+.custom-dropdown .ant-select-dropdown {
+  background-color: #1f2025 !important;
+  border-radius: 8px;
+}
+
+.custom-dropdown .ant-select-item {
+  background-color: transparent !important;
+  color: white !important;
+}
+
+.custom-dropdown .ant-select-item-option-active {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.custom-dropdown .ant-select-item-option-selected {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+.custom-select .ant-select-selector {
+  background-color: #1f2025 !important;
+  color: white !important;
+  border-radius: 8px !important;
+}
+.showcase {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    #30313a 0%,
+    #2c2d34 20.31%,
+    #1f2025 50.52%,
+    #18191e 86.98%,
+    #17181d 99.48%
+  );
+}
+.cart1 {
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 20px 0 rgba(15, 15, 15, 0.2);
+  background: linear-gradient(
+    225deg,
+    rgba(37, 37, 37, 0.3) 0%,
+    rgba(51, 52, 58, 0.3) 56.25%,
+    rgba(26, 26, 26, 0.3) 100%
+  );
+  
+}
