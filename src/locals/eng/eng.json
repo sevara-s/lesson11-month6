@@ -4,11 +4,47 @@
   "reviews": "reviews",
   "about_us": "about us",
   "btn": "become a client",
-  
+
   "showcase": "showcase",
   "show1": "Financial services and products for life and business",
   "btn1": "Learn more →",
   "sh1": "15 offices and representations (USA, Europe, UAE, Asia)",
   "sh2": "Operations with cryptocurrency and fiat",
-  "sh3": "700+ satisfied clients"
+  "sh3": "700+ satisfied clients",
+
+  "section1": "finance",
+  "h1": "Solving finance-related tasks",
+  "c1": "Buying/selling/exchanging fiat and cryptocurrencies",
+  "c2": "Sending/receiving money anywhere in the world",
+  "c3": "Paying bills for hotels, flights, goods, or services",
+
+  "section2": "products",
+  "p1_title": "Currency Exchange",
+  "p1": "Exchange fiat and cryptocurrencies safely worldwide",
+  "p2_title": "Concierge Service",
+  "p2": "Your personal assistant to help with financial tasks: from bill payments to credit card top-ups",
+  "p3_title": "Wallet",
+  "p3": "Exchange fiat and cryptocurrencies safely worldwide",
+
+  "section3": "paytion",
+  "about": "Our goal is to create a simple, transparent, and convenient way to use digital currencies in the real world. To give people the freedom to own and use their assets.",
+  "name": "Oleg Kurchenko",
+  "job": "CEO & Founder of Paytion",
+  "btn3": "Become a client",
+  "banner": "Make transactions with cryptocurrencies and fiat anytime, anywhere",
+
+  "footer": "footer",
+  "f1": "Financial services and products for life and business",
+  "f2": "Company",
+  "f3": "About us",
+  "f4": "Reviews",
+  "f5": "Products",
+  "f6": "Currency exchange",
+  "f7": "Concierge service",
+  "f8": "Bank card (Coming soon)",
+  "f9": "Personal account (Coming soon)",
+  "f10": "Web3 wallet (Coming soon)",
+  "f11": "Contacts",
+  "f12": "info@paytion.com",
+  "f13": "+7 (999) 999-99-99"
 }

@@ -67,7 +67,7 @@ img {
   color: white !important;
   border-radius: 8px !important;
 }
-.showcase {
+.showcase,.finance,.products,.paytion,.footer {
   background: radial-gradient(
     50% 50% at 50% 50%,
     #30313a 0%,
@@ -77,7 +77,7 @@ img {
     #17181d 99.48%
   );
 }
-.cart1 {
+.cart1,.task,.pr,.ceo {
   backdrop-filter: blur(10px);
   box-shadow: 0 4px 20px 0 rgba(15, 15, 15, 0.2);
   background: linear-gradient(

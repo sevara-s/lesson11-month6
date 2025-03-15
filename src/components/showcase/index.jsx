@@ -56,7 +56,6 @@ const Showcase = () => {
             <img src={shw} alt="" />
           </div>
         </div>
-        s
       </div>
     </section>
   );
